@@ -1,0 +1,12 @@
+
+Object  :-  An Object is a unique entity that contains properties and methods. For example “car” is a  real life Object, which has some characteristics like color, type, model, horsepower and performs certain actions like drive. The characteristics of an Object are called Properties in Object-Oriented Programming and the actions are called methods. An Object is an instance of a class. Objects are everywhere in JavaScript, almost every element is an Object whether it is a function, array, or string.
+
+
+Class :-  Classes are blueprint of an Object. A class can have many Objects because class is a template while Object are instances of the class or the concrete implementation. 
+
+
+Encasulation  :-  The process of wrapping properties and functions within a single unit is known as encapsulation. 
+
+Inheritance :-    It is a concept in which some properties and methods of an Object are being used by another Object. Unlike most of the OOP languages where classes inherit classes, JavaScript Objects inherit Objects i.e. certain features (property and methods) of one object can be reused by other Objects. 
+
+Polymorphism :-  Polymorphism is one of the core concepts of object-oriented programming language. Polymorphism means the same function with different signatures is called many times. In real life, Like a Boy at the same time is a Student, Class Monitor, etc.
